@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizahelena&show_icons=true&theme=radical)
+
 <!--
 **Luizadh/Luizadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
