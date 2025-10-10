@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizadh&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizadh/&layout=compact&theme=dracula)
 
 
 - 🔭 I’m currently working on ...
