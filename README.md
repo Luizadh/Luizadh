@@ -10,7 +10,8 @@
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</a>
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer">![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer">![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
-![Luizahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiza&show_icons=true&theme=radical)
+
+![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizadh&show_icons=true&theme=dracula)
 
 ## Areas of Interest
 
