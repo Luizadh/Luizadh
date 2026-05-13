@@ -1,6 +1,6 @@
 
 
-Languages and Tools
+## Languages and Tools
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
@@ -10,6 +10,14 @@ Languages and Tools
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</a>
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer">![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer">![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
+
+## Areas of Interest
+
+- Web Development
+- Data Science
+- Geotechnologies
+- Data Analysis
+- UI/UX Design
 
 
 <!--
