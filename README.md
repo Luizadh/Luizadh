@@ -8,6 +8,7 @@
 Here are some ideas to get you started:
 
 
+![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizadh&show_icons=true&theme=dracula)
 
 
 - 🔭 I’m currently working on ...
