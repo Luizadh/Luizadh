@@ -11,7 +11,7 @@
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer">![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer">![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
 
-![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/[Luizadh]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 
