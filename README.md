@@ -1,6 +1,4 @@
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizadh&layout=compact&theme=dracula)
+![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizadh&show_icons=true&theme=dracula)
 
 <!--
 **Luizadh/Luizadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizadh&show_icons=true&theme=dracula)
+
 
 
 - 🔭 I’m currently working on ...
